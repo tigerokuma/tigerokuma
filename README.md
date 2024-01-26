@@ -11,7 +11,7 @@ Hi there! I'm Taiga Okuma, a passionate and aspiring software engineer currently
 
 ## Skills
 
-- **Languages:** HTML/CSS, JavaScript, C/C++, Python, Bash
+- **Languages:** HTML/CSS, JavaScript, C/C++, Java, Bash
 - **Technologies:** Git, React, Node.js, Jest, Linux
 - **Miscellaneous:** Agile methodologies, OOP, RESTful API, Figma, UML Diagram
 
