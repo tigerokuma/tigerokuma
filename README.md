@@ -17,7 +17,7 @@ Hi there! I'm Taiga Okuma, a passionate and aspiring software engineer currently
 
 ## Projects
 
-### Paleta 
+### Paletä 
 - **Description:** AI-Powered Color Palette application built with React, Node.js, Color-thief library, and OpenAI API.
 - **Role:** Project management and development lead.
 - **Key Achievements:**
