@@ -17,7 +17,7 @@ Hi there! I'm Taiga Okuma, a passionate and aspiring software engineer currently
 
 ## Projects
 
-### Paleta (Team Project)
+### Paleta 
 - **Description:** AI-Powered Color Palette application built with React, Node.js, Color-thief library, and OpenAI API.
 - **Role:** Project management and development lead.
 - **Key Achievements:**
@@ -26,14 +26,6 @@ Hi there! I'm Taiga Okuma, a passionate and aspiring software engineer currently
   - Engineered CI/CD with React (Netlify) and Node.js (Heroku).
   - Executed Jest testing for code reliability.
 - **Links:** [GitHub Repo](https://github.com/scp10sfu/Root-9-Group-Project) | [Website](https://mypaleta.netlify.app/)
-
-### Healthful Foods (Personal Project)
-- **Description:** A platform for discovering and preparing nutritious recipes, developed using JQuery/JavaScript and Spoonacular API.
-- **Key Achievements:**
-  - Enabled dynamic recipe searches with various filters.
-  - Integrated Spoonacular API for a broad range of recipe options.
-  - Focused on clean and intuitive interface design.
-- **Links:** [GitHub Repo](https://github.com/SunIsDark/HealthFulFoods) | [Website](https://tigerokuma.github.io/HealthFulFoods/recipes.html)
 
 ## Education
 
