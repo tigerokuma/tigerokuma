@@ -11,8 +11,8 @@ Hi there! I'm Taiga Okuma, driven 3rd-year Computer Science student at Simon Fra
 
 ## Skills
 
-- **Languages:** Java, C, C++, JavaScript, Python, Bash
+- **Languages:** Java, C, C++, JavaScript, Python, Bash, SQL
 - **Web frameworks:** SpringBoot, React, Next.js, Node.js
-- **Technologies:** Git, GitHub, GitHub action, MongoDB, AWS EC2, Heroku, Vercel, Netlify
+- **Technologies:** Git, GitHub, GitHub action, MongoDB, PostgreSQL, AWS EC2, Heroku, Vercel, Netlify
 - **Design - UI/UX:** Figma, Balsamiq, Miro, Wire-framing, Prototyping (MFP · HFP) · Usability Testing
 - **Miscellaneous:** Agile methodologies, OOP, RESTful API, UML Diagram
